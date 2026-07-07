@@ -2,8 +2,13 @@
   "app_username": "X93J49A4",
   "app_password": "54818682",
   "iptv_server": {
-    "portal": "http://ottcst.com",
-    "username": "4YSKE3TUXM",
-    "password": "TMYXGVYEAA"
+    "portal": "http://premiummrzoo.xyz",
+    "username": "12c5587338ce",
+    "password": "eddc423bd4"
+  },
+  "vod_server": {
+    "portal": "http://premiummrzoo.xyz",
+    "username": "12c5587338ce",
+    "password": "eddc423bd4"
   }
 }
