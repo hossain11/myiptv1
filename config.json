@@ -3,5 +3,10 @@
   "app_password": "54818682",
   "server": "http://pro.prince4k.com:7355",
   "username": "PR1430623178512",
-  "password": "1696148045551"
+  "password": "1696148045551",
+  "iptv_server": {
+    "portal": "http://pro.prince4k.com:7355",
+    "username": "PR1430623178512",
+    "password": "1696148045551"
+  }
 }
