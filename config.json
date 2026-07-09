@@ -1,12 +1,12 @@
 {
   "app_username": "X93J49A4",
   "app_password": "54818682",
-  "server": "http://prince4k.com",
+  "portal": "http://pro.prince4k.com:7355",
   "username": "PR1430623178512",
   "password": "1696148045551",
   "iptv_server": {
-    "portal": "http://prince4k.com",
-    "username": "PR1430623178512",
+    "portal": "http://pro.prince4k.com:7355",
+    "username": "PR1430623178512"
     "password": "1696148045551"
   }
 }
