@@ -1,17 +1,17 @@
 {
   "app_username": "X93J49A4",
   "app_password": "54818682",
-  "server": "http://pro.prince4k.com:7355",
-  "username": "PR1430623178512",
-  "password": "1696148045551",
+  "server": "http://orkatv.xyz:80",
+  "username": "1472870781733517",
+  "password": "7F0A390BF521",
   "iptv_server": {
-    "portal": "http://pro.prince4k.com:7355",
-    "username": "PR1430623178512",
-    "password": "1696148045551"
+    "portal": "http://orkatv.xyz:80",
+    "username": "1472870781733517",
+    "password": "7F0A390BF521"
   },
   "series_server": {
-    "portal": "http://pro.prince4k.com:7355",
-    "username": "PR1430623178512",
-    "password": "1696148045551"
+    "portal": "http://orkatv.xyz:80",
+    "username": "1472870781733517",
+    "password": "7F0A390BF521"
   }
 }
