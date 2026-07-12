@@ -1,17 +1,43 @@
 {
-  "app_username": "X93J49A4",
-  "app_password": "54818682",
-  "server": "http://orkatv.xyz:80",
-  "username": "1472870781733517",
-  "password": "7F0A390BF521",
-  "iptv_server": {
-    "portal": "http://orkatv.xyz:80",
-    "username": "1472870781733517",
-    "password": "7F0A390BF521"
+  "version_code": 3,
+  "download_url": "https://githubusercontent.com",
+  
+  "paid_server_portal": "http://orkatv.xyz:80",
+
+  "paid_users": {
+    "ahmed55": "pass111",
+    "user_test": "test2026",
+    "ali_vip": "998877",
+    "yaser_vip": "lock9900",
+    "ali_iraq": "776655",
+    "user4_test": "trial123"
   },
-  "series_server": {
-    "portal": "http://orkatv.xyz:80",
-    "username": "1472870781733517",
-    "password": "7F0A390BF521"
+
+  "free_q_servers": {
+    "Q1": {
+      "portal": "http://orkatv.xyz:80",
+      "username": "1412878781735517",
+      "password": "7FBA39DBF521"
+    },
+    "Q2": {
+      "portal": "http://orkatv.xyz:80",
+      "username": "1412878781735517",
+      "password": "7FBA39DBF521"
+    },
+    "Q3": {
+      "portal": "http://orkatv.xyz:80",
+      "username": "1412878781735517",
+      "password": "7FBA39DBF521"
+    },
+    "Q4": {
+      "portal": "http://orkatv.xyz:80",
+      "username": "1412878781735517",
+      "password": "7FBA39DBF521"
+    },
+    "Q5": {
+      "portal": "http://orkatv.xyz:80",
+      "username": "1412878781735517",
+      "password": "7FBA39DBF521"
+    }
   }
 }
