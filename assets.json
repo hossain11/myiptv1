@@ -1,12 +1,7 @@
 {
-  "================= أيـقـونـة الـتـطـبـيـق مـن بـرّة =================": "",
-  "app_icon_url": "https://k.top4top.io/p_3845zoc2t4.png",
+  "مكان_شعّار_شاشة_التحميل_الاولى": "https://j.top4top.io/p_384559q2b3.png",
+  "مكان_خلفية_شاشة_التحميل_الاولى": "https://i.top4top.io/p_3845u9sjj1.jpg",
 
-  "================= شـاشـة الـتـحـمـيـل (SPLASH) =================": "",
-  "splash_logo_url": "https://j.top4top.io/p_384559q2b3.png",
-  "splash_background_url": "https://i.top4top.io/p_3845u9sjj1.jpg",
-
-  "================= شـاشـة تـسـجـيـل الـدخـول (LOGIN) =================": "",
-  "login_logo_url": "https://i.top4top.io/p_3845hj8x01.png",
-  "login_background_url": "https://i.top4top.io/p_3845u9sjj1.jpg"
+  "مكان_خلفية_شاشة_تسجيل_الدخول": "https://j.top4top.io/p_384559q2b3.png",
+  "مكان_شعّار_شاشة_تسجيل_الدخول": "https://i.top4top.io/p_3845u9sjj1.jpg"
 }
