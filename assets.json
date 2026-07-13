@@ -1,7 +1,6 @@
 {
-  "مكان_شعّار_شاشة_التحميل_الاولى": "https://j.top4top.io/p_384559q2b3.png",
-  "مكان_خلفية_شاشة_التحميل_الاولى": "https://i.top4top.io/p_3845u9sjj1.jpg",
-
-  "مكان_خلفية_شاشة_تسجيل_الدخول": "https://j.top4top.io/p_384559q2b3.png",
-  "مكان_شعّار_شاشة_تسجيل_الدخول": "https://i.top4top.io/p_3845u9sjj1.jpg"
+  "splash_logo_url": "https://githubusercontent.com",
+  "splash_background_url": "https://stockcake.com",
+  "login_logo_url": "https://githubusercontent.com",
+  "login_background_url": "https://stockcake.com"
 }
