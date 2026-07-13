@@ -1,6 +1,7 @@
 {
-  "splash_logo_url": "https://githubusercontent.com",
-  "splash_background_url": "https://stockcake.com",
-  "login_logo_url": "https://githubusercontent.com",
-  "login_background_url": "https://stockcake.com"
+  "app_icon_url": "https://raw.githubusercontent.com/hossain11/myiptv1/refs/heads/main/images.jfif",
+  "splash_background_url": "https://raw.githubusercontent.com/hossain11/myiptv1/refs/heads/main/images.jfif",
+  "splash_logo_url": "https://raw.githubusercontent.com/hossain11/myiptv1/refs/heads/main/images.jfif",
+  "login_background_url": "https://raw.githubusercontent.com/hossain11/myiptv1/refs/heads/main/images.jfif",
+  "login_logo_url": "https://raw.githubusercontent.com/hossain11/myiptv1/refs/heads/main/images.jfif"
 }
